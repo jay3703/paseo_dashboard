@@ -1,12 +1,3 @@
-# Hi, I'm Jay Vanave
-
-## About Me
-I'm a passionate web developer skilled in frontend and backend technologies. I specialize in building responsive and dynamic web applications that enhance user experiences.
-
-## Skills
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React
-- **Backend:** Python
-
 ## Power BI Sales Dashboard
 ### Project Overview
 This project is a **Power BI Sales Dashboard** that provides insights into sales performance across different regions and product segments. The dashboard features various interactive visualizations to help analyze profit distribution and trends.
